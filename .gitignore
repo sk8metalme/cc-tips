@@ -1,0 +1,45 @@
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+# エディタ一時ファイル
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# 一時ディレクトリ
+.temp/
+docs/tmp/
+
+# ログファイル
+*.log
+*.tmp
+*.bak
+
+# 依存関係・ビルド成果物
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+
+# 秘密情報
+.env
+.env.*
+!.env.example
+!.env.template
+.secrets/
+secrets/
+credentials/
+*.pem
+*.key
+*.p12
+*.pfx
+*.ppk
+id_rsa*
+id_ed25519*
+service-account.json
+.netrc
+.npmrc
+.pypirc
