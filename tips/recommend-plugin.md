@@ -86,7 +86,7 @@ $ /code-review --comment
 ```
 
 <!-- TODO(human): code-simplifier で劇的に改善したコード例、code-review で見つかった重大なバグの事例、プラグインのカスタマイズ設定（信頼度閾値など）があれば追記してください -->
-
+ 
 ## 参考リンク
 
 - [claude-plugins-official/code-simplifier](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/code-simplifier)
