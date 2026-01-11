@@ -1,0 +1,19 @@
+{
+  "version": "0.2",
+  "language": "en,ja",
+  "words": [
+    "anthropics",
+    "pytest",
+    "ccusage",
+    "Eコマース",
+    "OpenAPI",
+    "SemVer",
+    "TypeScript"
+  ],
+  "ignorePaths": [
+    "node_modules",
+    ".git",
+    "dist",
+    "build"
+  ]
+}
