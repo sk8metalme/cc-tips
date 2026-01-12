@@ -22,6 +22,7 @@ Claude Code の活用 Tips、設定例、ベストプラクティスを集約し
 | Tips | 概要 | カテゴリ |
 |------|------|---------|
 | [推奨プラグイン](tips/recommend-plugin.md) | code-simplifier, code-review などの便利なプラグインの紹介とトレードオフ | プラグイン |
+| [開発支援コマンド](tips/custom-slash-commands.md) | /create_pr, /git_sync, deep-dive など開発フローを効率化するコマンド・プラグイン | ワークフロー |
 | [Skills 整理方法](tips/skills-organization.md) | Skills に何を置くべきかの判断基準（再利用可能性で分類） | 設計思想 |
 | [CLAUDE.md設定](tips/claude-md-configuration.md) | グローバル設定と@インポート方式のベストプラクティス | 設定 |
 | [ccusage設定](tips/ccusage-setup.md) | Claude Codeのトークン使用量とコスト追跡の設定方法 | 設定 |
@@ -55,6 +56,7 @@ Claude Code の活用 Tips、設定例、ベストプラクティスを集約し
 cc-tips/
 ├── tips/               # カテゴリ別 Tips ドキュメント
 │   ├── recommend-plugin.md
+│   ├── custom-slash-commands.md
 │   ├── skills-organization.md
 │   ├── claude-md-configuration.md
 │   └── ccusage-setup.md
